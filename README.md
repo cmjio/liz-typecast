@@ -1,1 +1,1 @@
-The source code for the dribbble http://dribbble.com/shots/812229-Final-The-Pause-Typecast-Entry
+The source code for the dribbble http://dribbble.com/shots/812229-Final-The-Pause-Typecast-Entry-Box-Shadow-Liz
